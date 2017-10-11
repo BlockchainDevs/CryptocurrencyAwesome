@@ -16,6 +16,7 @@ Cryptocurrency study materials resources
 - [Youtube Channels](#youtube-channels)
 - [Assets](#assets)
 - [Enterprise grade Blockchain](#enterprise-grade-blockchain)
+- [User Activated Soft fork](#user-activated-soft-fork)
 
 ### Blockchain Books
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
@@ -250,3 +251,5 @@ Cryptocurrency study materials resources
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
 
+### UASF
+* [User Activated Soft fork](https://github.com/OPUASF/UASF)
