@@ -251,5 +251,5 @@ Cryptocurrency study materials resources
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
 
-### UASF
+### User Activated Soft fork
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
