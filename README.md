@@ -293,6 +293,7 @@ Cryptocurrency study material resources
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
 * [Multichain](https://www.multichain.com/)
+* [Hydrachain](https://github.com/HydraChain/hydrachain)
 
 ### User Activated Soft fork
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
