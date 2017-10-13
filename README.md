@@ -292,6 +292,7 @@ Cryptocurrency study material resources
 ### Enterprise Grade Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
+* [Multichain](https://www.multichain.com/)
 
 ### User Activated Soft fork
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
