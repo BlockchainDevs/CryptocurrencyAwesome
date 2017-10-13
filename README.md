@@ -65,6 +65,7 @@ Cryptocurrency study material resources
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
 * [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
 * [Lightning Network](https://lightning.network/lightning-network-paper.pdf)
+* [How to Time Stamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf_) - Habber and Stornetta
 
 ### Bitcoin
 * [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin
