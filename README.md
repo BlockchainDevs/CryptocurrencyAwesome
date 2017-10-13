@@ -1,6 +1,6 @@
 # CryptocurrencyAwesome
 
-Cryptocurrency study materials resources
+Cryptocurrency study material resources
 
 ## Table of Contents
 
@@ -8,6 +8,7 @@ Cryptocurrency study materials resources
 - [Blockchain Art](#blockchain-art)
 - [Blockchain Books](#blockchain-books)
 - [Courses](#courses)
+- [Wallets](#wallets)
 - [Documentaries](#documentaries)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 - [Explorers](#explorers)
@@ -147,6 +148,46 @@ Cryptocurrency study materials resources
 * [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
 * [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
+
+### Wallets
+* [First Source](https://bitcoin.stackexchange.com/questions/58968/which-wallets-support-bitcoin-cash)
+
+#### Full Nodes
+* [Bitcoin Unlimited Cash Edition](https://www.bitcoinunlimited.info/)
+* [Bitcoin ABC](https://www.bitcoinabc.org/)
+* [Bitcoin Classic](https://bitcoinclassic.com/)
+* [Bitcoin XT](https://bitcoinxt.software/)
+
+#### Desktop Wallets
+* [Jaxx](https://jaxx.io)
+* [Electron Cash](https://www.electroncash.org/)
+* [Exodus Eden](https://www.exodus.io/eden)
+* [BitcoinCash Wallet](https://github.com/cpacia/BitcoinCash-Wallet/releases)
+* [Bitcoin.com](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet)
+* [Electrum](https://electrum.org/)
+
+#### Mobile Wallets
+
+##### Android
+* [Bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
+* [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
+* [Coinomi](https://coinomi.com/)
+* [Jaxx](https://jaxx.io/)
+
+##### IPhone
+* [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
+* [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
+
+#### Web Wallets
+* [Coinbase](https://coinbase.com)
+* [Paxful](https://paxful.com)
+* [Safe Bitcoin Cash](https://wallet.btc.com)
+* [Exodus](https://exodus.io)
+* [My Ether Wallet](https://myetherwallet.com)
+
+#### Hardware Wallets
+* [Ledger Nano S](https://ledgerwallet.com/)
+* [Trezor](https://trezor.io)
 
 ### Youtube Channels
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
