@@ -7,6 +7,7 @@ Cryptocurrency study material resources
 - [Bitcoin Books](#bitcoin)
 - [Blockchain Art](#blockchain-art)
 - [Blockchain Books](#blockchain-books)
+- [Blockchain](#blockchain)
 - [Courses](#courses)
 - [Wallets](#wallets)
 - [Documentaries](#documentaries)
@@ -43,6 +44,14 @@ Cryptocurrency study material resources
 * [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) - Chris Skinner
 
+
+### Blockchain
+* [Mapping the decentralized world of tomorrow](https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203) - Alexander Ruppert 
+  - Protocols and Infrastructure
+    - **Public Blockchains**: [bitcoin](https://bitcoin.org/), [Ethereum](https://www.ethereum.org/), [Tendermint](https://tendermint.com/), [Nxt](https://nxt.org/)
+    - **Private Blockchains**: [Monax](https://monax.io/), [Corda](https://www.corda.net/), [Ripple](https://ripple.com/), [Chain](https://chain.com/)
+    - **Scalability and Interoperability**: [aeternity](https://www.aeternity.com/), [BigchainDB](https://www.bigchaindb.com/), [COSMOS](https://cosmos.network/), [Ties Network](https://github.com/TiesNetwork), [Interledger](https://interledger.org/), [Raiden](http://raiden.network/), [Lightning Network](https://lightning.network/)
+    - **Marketplaces Infrastructure**: [OpenBazaar](https://www.openbazaar.org/), [particl](https://particl.io/)
 
 ### Whitepapers
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
