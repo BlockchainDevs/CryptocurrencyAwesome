@@ -9,6 +9,7 @@ Cryptocurrency study material resources
 - [Blockchain Books](#blockchain-books)
 - [Blockchain](#blockchain)
 - [Courses](#courses)
+- [Articles](#articles)
 - [Wallets](#wallets)
 - [Documentaries](#documentaries)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
@@ -62,11 +63,16 @@ Cryptocurrency study material resources
 * [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
 * [Bitcoin](http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
 * [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
+* [Bitcoin Live: Scalable system for detecting bitcoin network behaviors in real time](http://snap.stanford.edu/class/cs224w-2015/projects_2015/Bitcoin_Live-_Scalable_system_for_detecting_bitcoin_network_behaviors_in_real_time.pdf) - Stanford University
+* [Forensics and Bitcoin](https://articles.forensicfocus.com/2015/01/16/forensics-bitcoin/)
+* [Evolution of the Bitcoin Address Graph](https://aic.ai.wu.ac.at/%7Epolleres/publications/filtz-etal-2017IDSC.pdf)
+* [BitConduite: Visualizing and Analyzing Activity on the Bitcoin Network](https://hal.inria.fr/hal-01528605/) - INRIA
 * [Blockchain: practical implications of a revolutionary technology for financial markets and beyond](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/)  - DLA Piper
 * [Blockchain: the solution for transparency in product supply chains](https://www.provenance.org/whitepaper) - Project Provenance Ltd
 * [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://blockstack.org/blockstack.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
 * [Bootstrapping Trust in Distributed Systems with Blockchains](https://blockstack.org/blockstack-login.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
 * [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
+* [A Traceability Analysis of Monero’s Blockchain](https://eprint.iacr.org/2017/338.pdf)
 * [Distributed Ledger Technology: beyond block chain](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) - UK Government Chief Scientific Adviser
 * [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda
 * [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf) - Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
@@ -108,6 +114,14 @@ Cryptocurrency study material resources
 * [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=1119019168&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Pedro Franco
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
+
+### Articles
+* [Plasma Protocol](https://bankex.com/ru/technologies/plasma-protocol)
+* [Construction of a Plasma Chain 0x1 by David Knott](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612)
+* [Osforensics Founder Explains His Bitcoin Transaction Monitoring Tools](https://news.bitcoin.com/osforensics-founder-explains-his-bitcoin-transaction-monitoring-tool/)
+* [Introduction to Quorum](https://blockchainatberkeley.blog/introduction-to-quorum-blockchain-for-the-financial-sector-58813f84e88c)
+* [Analysis: Around 70% of Bitcoins Unspent for Six Months or More](http://www.coindesk.com/analysis-around-70-bitcoins-dormant-least-six-months/)
+* [Contract Security, Design Patterns and Reputation](https://medium.com/@billgleim/contract-security-design-patterns-and-reputation-74d455162adb)
 
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
@@ -212,6 +226,11 @@ Cryptocurrency study material resources
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Bruce Fentohttps://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-n First Mover](https://www.youtube.com/user/BruceFenton/videos)
+* [What are Cryptoassets Actually Worth? - Chris Burniske](https://www.youtube.com/watch?v=ooKXtFoMjtY)
+* [How the US government is using blockchain to fight fraud by Kathryn Haun](https://www.youtube.com/watch?v=507wn9VcSAE)
+* [Spark, GraphX, and Blockchains: Building a Behavioral Analytics Platform for Forensics and Fraud](https://www.youtube.com/watch?v=8ELUDY1-ee0)
+* [Blockchain Analysis with Quantabytes Founder, Martin Harrigan](https://www.youtube.com/watch?v=56X2-egE_K4)
+* [Bitcoin and Anonymity](https://www.youtube.com/watch?v=glyQy_e5LmM)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
@@ -308,3 +327,13 @@ Cryptocurrency study material resources
 
 ### User Activated Soft fork
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
+
+# Contributing
+Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in the documentation? Interested in adding a _new stuff here?_ Then by all means submit an issue or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the GitHub Flow first. 
+
+# License
+
+[Apache License 2.0](https://github.com/cryptocurrencyindia/CryptocurrencyAwesome/blob/master/LICENSE)
+
+Copyright (c) 2017 CryptocurrencyIndia
+
