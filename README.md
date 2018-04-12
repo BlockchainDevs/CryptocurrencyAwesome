@@ -336,5 +336,5 @@ Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in t
 
 [Apache License 2.0](https://github.com/cryptocurrencyindia/CryptocurrencyAwesome/blob/master/LICENSE)
 
-Copyright (c) 2017 CryptocurrencyIndia
+Copyright (c) 2017 BlockchainDevs
 
