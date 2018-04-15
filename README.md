@@ -122,6 +122,7 @@ Cryptocurrency study material resources
 * [Introduction to Quorum](https://blockchainatberkeley.blog/introduction-to-quorum-blockchain-for-the-financial-sector-58813f84e88c)
 * [Analysis: Around 70% of Bitcoins Unspent for Six Months or More](http://www.coindesk.com/analysis-around-70-bitcoins-dormant-least-six-months/)
 * [Contract Security, Design Patterns and Reputation](https://medium.com/@billgleim/contract-security-design-patterns-and-reputation-74d455162adb)
+* [Getting Started with Web3j - Blockchain and Java](https://community.oracle.com/groups/delhi-ncr-java-user-group/blog/2018/03/08/getting-started-with-web3j)
 
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
