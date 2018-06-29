@@ -123,6 +123,8 @@ Cryptocurrency study material resources
 * [Analysis: Around 70% of Bitcoins Unspent for Six Months or More](http://www.coindesk.com/analysis-around-70-bitcoins-dormant-least-six-months/)
 * [Contract Security, Design Patterns and Reputation](https://medium.com/@billgleim/contract-security-design-patterns-and-reputation-74d455162adb)
 * [Getting Started with Web3j - Blockchain and Java](https://www.stevemann.in/2018/03/getting-started-with-web3j/)
+* [Golden Cryptocurrency and Blockchain cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency)
+
 
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
@@ -337,5 +339,5 @@ Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in t
 
 [Apache License 2.0](https://github.com/cryptocurrencyindia/CryptocurrencyAwesome/blob/master/LICENSE)
 
-Copyright (c) 2017 CryptocurrencyIndia
+Copyright (c) 2017 BlockchainDevs
 
