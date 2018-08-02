@@ -122,7 +122,7 @@ Cryptocurrency study material resources
 * [Introduction to Quorum](https://blockchainatberkeley.blog/introduction-to-quorum-blockchain-for-the-financial-sector-58813f84e88c)
 * [Analysis: Around 70% of Bitcoins Unspent for Six Months or More](http://www.coindesk.com/analysis-around-70-bitcoins-dormant-least-six-months/)
 * [Contract Security, Design Patterns and Reputation](https://medium.com/@billgleim/contract-security-design-patterns-and-reputation-74d455162adb)
-* [Golden Cryptocurrency and Blockchain cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency)
+* [Golden Cryptocurrency and Blockchain cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency)
 
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
