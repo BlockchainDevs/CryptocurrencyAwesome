@@ -254,6 +254,7 @@ Cryptocurrency study material resources
 
 ### Courses
 * [Online Blockchain Training by Blockgeeks](https://courses.blockgeeks.com/)
+* [Blockchain Architecture Design and Use Cases](https://www.youtube.com/watch?v=mzPoUjQC4WU&list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4) - IBM and IIT-Kharagpur
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
 * [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
