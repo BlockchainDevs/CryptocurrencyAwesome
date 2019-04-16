@@ -20,6 +20,7 @@ Cryptocurrency study material resources
 - [Assets](#assets)
 - [Enterprise grade Blockchain](#enterprise-grade-blockchain)
 - [User Activated Soft fork](#user-activated-soft-fork)
+- [Alerting](#alerting)
 
 ### Blockchain Books
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
@@ -47,7 +48,7 @@ Cryptocurrency study material resources
 
 
 ### Blockchain
-* [Mapping the decentralized world of tomorrow](https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203) - Alexander Ruppert 
+* [Mapping the decentralized world of tomorrow](https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203) - Alexander Ruppert
   - Protocols and Infrastructure
     - **Public Blockchains**: [bitcoin](https://bitcoin.org/), [Ethereum](https://www.ethereum.org/), [Tendermint](https://tendermint.com/), [Nxt](https://nxt.org/)
     - **Private Blockchains**: [Monax](https://monax.io/), [Corda](https://www.corda.net/), [Ripple](https://ripple.com/), [Chain](https://chain.com/)
@@ -332,8 +333,11 @@ Cryptocurrency study material resources
 ### User Activated Soft fork
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
 
+### Alerting
+* [Cryptocurrency Alerting](https://cryptocurrencyalerting.com)
+
 # Contributing
-Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in the documentation? Interested in adding a _new stuff here?_ Then by all means submit an issue or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the GitHub Flow first. 
+Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in the documentation? Interested in adding a _new stuff here?_ Then by all means submit an issue or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the GitHub Flow first.
 
 # License
 
