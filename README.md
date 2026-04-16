@@ -3,6 +3,7 @@
 Cryptocurrency study material resources
 
 ## Table of Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [Bitcoin Books](#bitcoin)
 - [Blockchain Art](#blockchain-art)
