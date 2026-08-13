@@ -334,6 +334,7 @@ Cryptocurrency study material resources
 * [User Activated Soft fork](https://github.com/OPUASF/UASF)
 
 ### Alerting
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram/Discord when an SPL token crosses a price threshold, no API key needed.
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com)
 
 # Contributing
