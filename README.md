@@ -48,6 +48,7 @@ Cryptocurrency study material resources
 
 
 ### Blockchain
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware (PowerPC, SPARC, 68K) for mining. AI agent economy with RTC tokens.
 * [Mapping the decentralized world of tomorrow](https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203) - Alexander Ruppert
   - Protocols and Infrastructure
     - **Public Blockchains**: [bitcoin](https://bitcoin.org/), [Ethereum](https://www.ethereum.org/), [Tendermint](https://tendermint.com/), [Nxt](https://nxt.org/)
