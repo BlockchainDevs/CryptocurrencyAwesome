@@ -337,6 +337,7 @@ Cryptocurrency study material resources
 ### Alerting
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com)
 - [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
+- [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) — free Discord bot that keeps the Crypto Fear & Greed Index in a server's member list (its nickname shows today's value, its status the change since yesterday) and answers `/fng` with today's reading and the last 2-30 days.
 
 # Contributing
 Having trouble finding new stuffs related to Cryptocurrency? Found a _typo_ in the documentation? Interested in adding a _new stuff here?_ Then by all means submit an issue or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the GitHub Flow first.
