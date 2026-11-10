@@ -316,6 +316,7 @@ Cryptocurrency study material resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [Wallet Explorer](https://www.walletexplorer.com/)
 * [WebBtc](https://webbtc.com/)
+* [FreezeRadar](https://freezeradar.com/) - Free USDT/USDC wallet blacklist and sanctions checker (issuer freeze status, sanctions exposure, live freeze/release feed)
 
 
 ### Assets
