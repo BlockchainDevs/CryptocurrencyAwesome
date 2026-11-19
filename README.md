@@ -207,6 +207,7 @@ Cryptocurrency study material resources
 ##### IPhone
 * [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
 * [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
+* [Ownbit](https://ownbit.io/en/) - iOS self-custody wallet with Bitcoin Cash support, multisig and QR offline signing; paid membership with a 7-day trial.
 
 #### Web Wallets
 * [Coinbase](https://coinbase.com)
