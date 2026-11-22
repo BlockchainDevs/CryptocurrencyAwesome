@@ -203,6 +203,7 @@ Cryptocurrency study material resources
 * [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
 * [Coinomi](https://coinomi.com/)
 * [Jaxx](https://jaxx.io/)
+* [Terra Wallet](https://terrawallet.us/)
 
 ##### IPhone
 * [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
